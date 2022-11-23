@@ -1,17 +1,17 @@
 <!--
   This example requires some changes to your config:
   
-  ```
-  // tailwind.config.js
+  ```-->
+<script>
   module.exports = {
     // ...
     plugins: [
       // ...
       require('@tailwindcss/forms'),
     ],
-  }
-  ```
--->
+  };
+
+</script>
 <!--
   This example requires updating your template:
 

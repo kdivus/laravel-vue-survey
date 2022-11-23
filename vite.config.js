@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite';
-import dns from 'dns'
+//import dns from 'dns'
 import laravel from 'laravel-vite-plugin';
 
-dns.setDefaultResultOrder('verbatim')
+//dns.setDefaultResultOrder('verbatim')
 
 export default defineConfig({
     server: {
