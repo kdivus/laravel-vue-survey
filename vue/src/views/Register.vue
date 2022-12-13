@@ -25,7 +25,7 @@
     <div class="w-full max-w-md space-y-8">
       <div>
         <img class="mx-auto h-12 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="Your Company" />
-        <h2 class="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">Sign in to your account</h2>
+        <h2 class="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">Register For Free</h2>
         <p class="mt-2 text-center text-sm text-gray-600">
           Or
           {{ ' ' }}
@@ -61,7 +61,7 @@
             <span class="absolute inset-y-0 left-0 flex items-center pl-3">
               <LockClosedIcon class="h-5 w-5 text-indigo-500 group-hover:text-indigo-400" aria-hidden="true" />
             </span>
-            Sign in
+            Register For Free
           </button>
         </div>
       </form>
